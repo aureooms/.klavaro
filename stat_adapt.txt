@@ -1,0 +1,2 @@
+Accuracy	Velocity	Fluidness	Date	Hour	Keyboard	Language
+93.87	20.48	0.00	2014-12-15	11:01	azerty_be	Français
