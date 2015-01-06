@@ -144,3 +144,5 @@ Accuracy	Velocity	Fluidness	Date	Hour	Lesson	Keyboard
 98.15	21.30	0.00	2015-01-01	21:06	34	azerty_be
 95.37	20.01	0.00	2015-01-02	12:48	34	azerty_be
 96.30	23.03	0.00	2015-01-02	13:26	34	azerty_be
+95.37	23.82	0.00	2015-01-06	13:02	34	azerty_be
+97.84	24.53	0.00	2015-01-06	13:05	34	azerty_be
